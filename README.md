@@ -1,3 +1,27 @@
+Author: Qianyi Feng, qfeng@uoregon.edu
+
+This software has changed the performance and has beed more similar to minijax, which gave away the submit botton, and made sure that once all of the three words are correct, the websit would jump to the success site immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # proj3-JSA
 Vocabulary anagrams game for primary school English language learners (ELL)
 
