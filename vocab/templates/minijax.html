@@ -129,6 +129,10 @@ function showTiles(text) {
     $("#tiles").html(tiles_html);
     // alert("Inserted html: " + tiles_html);
 }
+function success(response){
+    if (response.redirect !== undefined && response.redirect){
+    window.location.href = response.redirect_url
+}
 </script>
 
 
